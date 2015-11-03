@@ -1,4 +1,4 @@
-package com.tch.test.dobbo_service_consumer;
+package com.tch.test.dubbo_service_consumer;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.tch.test.dubbo_service_model.service.DemoService;
